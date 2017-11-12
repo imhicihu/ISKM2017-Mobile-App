@@ -16,11 +16,11 @@ Workflow / Seminal Project: A kind of hybrid app involving different languages a
 * Dependencies
      - The less, the better. A personal _motto_.
 * Database configuration
-     - The bibliographic data is converted to _.CSV_ format, in UTF-16 (There are some cyrillic issues, fixed up to now). This is a must condition for proper rendering and meet the rigid deadlines of the IOS ecosystem.
+     - ~~The bibliographic data is converted to _.CSV_ format, in UTF-16 (There are some cyrillic issues, fixed up to now). This is a must condition for proper rendering and meet the rigid deadlines of the IOS ecosystem~~.
 * How to run tests
      - Soon 
 * Deployment instructions
-     - Download from this repo or our _Github_ account the .IPA or .APK. Then install it on your device. Run it. _Presto_.
+     - ~~Download from this repo or our _Github_ account the .IPA or .APK. Then install it on your device. Run it. _Presto_.~~
 
 
 ### Who do I talk to? ###
