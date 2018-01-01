@@ -1,18 +1,18 @@
 # Rationale #
 
-Workflow / Seminal Project: A kind of hybrid app involving different languages and tools: Xcode, Javascript, Jquery, Html5, CSS3 and many more. The initial goal: it must run on IOS & Android devices.
+Workflow / Seminal Project: A kind of hybrid app involving different languages and tools: Xcode, Javascript, Jquery, Html5, CSS3 and many more. The initial goal: *it* must run on IOS & Android devices.
 
 ### What is this repository for? ###
 
-* Hybrid Web-App - App
-* Version 1.0
+* ~~Hybrid Web-App - App -~~ Native App
+* Version 1.1
 
 
 ### How do I get set up? ###
 
 * Summary of set up
 * Configuration
-     - Xcode. Electron, NPM, Bower, SASS, Docker...
+     - Xcode. Electron, NPM, Bower, SASS, Docker, mobile emulators...
 * Dependencies
      - The less, the better. A personal _motto_.
 * Database configuration
