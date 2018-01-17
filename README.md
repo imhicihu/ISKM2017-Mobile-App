@@ -12,7 +12,7 @@ Workflow / Seminal Project: A kind of hybrid app involving different languages a
 
 * Summary of set up
 * Configuration
-     - Xcode. Electron, NPM, Bower, SASS, Docker, mobile emulators...
+     - Xcode. Electron, NPM, Bower, SASS, Docker, Android File Transfer, mobile emulators...
 * Dependencies
      - The less, the better. A personal _motto_.
 * Database configuration
