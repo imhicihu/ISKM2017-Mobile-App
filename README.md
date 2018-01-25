@@ -12,7 +12,7 @@ Workflow / Seminal Project: A kind of hybrid app involving different languages a
 
 * Summary of set up
 * Configuration
-     - Xcode. Electron, NPM, Bower, Java, Docker, Android File Transfer, mobile emulators (Bluestack, mainly)...
+     - Xcode. Electron, NPM, Bower, Java, Docker, Android File Transfer, mobile emulators (Bluestack, mainly), [Zotero](https://www.zotero.org/);...
 * Dependencies
      - The less, the better. A personal _motto_.
 * How to run tests
