@@ -1,6 +1,6 @@
 # Rationale #
 
-Workflow / Seminal Project: A kind of hybrid app involving different languages and tools: Xcode, Javascript, Jquery, Html5, CSS3 and many more. The initial goal: *it* must run on IOS & Android devices.
+Workflow / Seminal Project: A native app related with the [ISKM 2017 Symposium](www.imhicihu-conicet.gob.ar/iskm2017) celebrated on Buenos Aires, no november 2017.
 
 ### What is this repository for? ###
 
@@ -16,7 +16,7 @@ Workflow / Seminal Project: A kind of hybrid app involving different languages a
 * Dependencies
      - The less, the better. A personal _motto_.
 * How to run tests
-     - Go to Play Store. Look for: `iskm 2017`. Download for free.
+     - Go to Play Store. [Download for free](https://play.google.com/store/apps/details?id=com.iskm2017.app_120833_124594&hl=es).
 * Deployment instructions
      - ~~Download from this repo or our _Github_ account the .IPA or .APK. Then install it on your device. Run it. _Presto_.~~
 
