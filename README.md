@@ -12,7 +12,7 @@ Workflow / Seminal Project: A native and official app related with the [ISKM 201
 
 * Summary of set up
 * Configuration
-     - Xcode. Electron, NPM, Bower, Java, Docker, Android File Transfer, mobile emulators (Bluestack, mainly), [Zotero](https://www.zotero.org/);...
+     - Android Studio, NPM, Bower, Java, Docker, Android File Transfer, mobile emulators (Bluestack, mainly), [Zotero](https://www.zotero.org/);...
 * Dependencies
      - The less, the better. A personal _motto_.
 * How to run the code
