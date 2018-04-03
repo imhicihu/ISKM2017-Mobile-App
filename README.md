@@ -20,6 +20,9 @@ Workflow / Seminal Project: A native and official app related with the [ISKM 201
      -  We try to be minimalist, as a way to get a quick solution to bottlenecks: the less, the better.
 * How to run the code
      - Go to Play Store. [Download for free](https://play.google.com/store/apps/details?id=com.iskm2017.app_120833_124594&hl=es).
+     
+      ![iskm2017.png](https://bitbucket.org/repo/5qRy4oR/images/2542914166-iskm2017.png)
+      
 * Deployment instructions
      - ~~Download from this repo or our _Github_ account the .IPA or .APK. Then~~ Install it on your device. Run it. _Presto_.
 
