@@ -23,7 +23,7 @@
      - Android File Transfer, 
      - mobile emulators (Bluestack, mainly), 
      - [Zotero](https://www.zotero.org/)
-     - Frameworks
+* Frameworks
      Framework              | Price
 ------------------- | -------------
 * [Ionic](https://ionicframework.com/) | Starter: Free Pro: $ every month
