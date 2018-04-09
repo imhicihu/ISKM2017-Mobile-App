@@ -23,15 +23,7 @@
      - Android File Transfer, 
      - mobile emulators (Bluestack, mainly), 
      - [Zotero](https://www.zotero.org/)
-
-     Framework              | Price
-------------------- | -------------
-* [Ionic](https://ionicframework.com/) | Starter: Free Pro: $ every month
-* [React Native](https://facebook.github.io/react-native/) | Free
-* [PhoneGap](https://phonegap.com/) | [Plans](https://phonegap.com/blog/2011/10/13/phonegap-build-pricing-plans-update/)
-* [Cordova](https://cordova.apache.org/) | Free
-* [Framework7](https://framework7.io/) | Free
-* [Sencha](https://www.sencha.com/) | [Pricing](https://www.sencha.com/pricing/)
+     - [Frameworks](https://bitbucket.org/imhicihu/iskm2017-mobile-app/issues/edit/15) 
 
 * Dependencies
      -  We try to be minimalist, as a way to get a quick solution to bottlenecks: the less, the better.
