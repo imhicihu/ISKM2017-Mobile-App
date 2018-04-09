@@ -1,6 +1,6 @@
 # Rationale #
 
-Workflow / Seminal Project: A native and official app related with the [ISKM 2017 Symposium](http://www.imhicihu-conicet.gob.ar/iskm2017/) celebrated on Buenos Aires, Argentina, on november 2017.
+* Workflow / Seminal Project: A native and official app related with the [ISKM 2017 Symposium](http://www.imhicihu-conicet.gob.ar/iskm2017/) celebrated on Buenos Aires, Argentina, on november 2017.
 
 ![iskm2017-web.png](https://bitbucket.org/repo/bBMkd4/images/892361199-iskm2017-web.png)
 
@@ -15,7 +15,24 @@ Workflow / Seminal Project: A native and official app related with the [ISKM 201
 * Summary of set up
      - Lots of tools and the interaction between all of them. Implies hardware (real and virtual) and software (mostly open-source)
 * Configuration
-     - Android Studio, NPM, Bower, Java, Docker, Android File Transfer, mobile emulators (Bluestack, mainly), [Zotero](https://www.zotero.org/);...
+     - Android Studio, 
+     - NPM, 
+     - Bower, 
+     - Java, 
+     - Docker, 
+     - Android File Transfer, 
+     - mobile emulators (Bluestack, mainly), 
+     - [Zotero](https://www.zotero.org/)
+     - Frameworks
+     Framework              | Price
+------------------- | -------------
+* [Ionic](https://ionicframework.com/) | Starter: Free Pro: $ every month
+* [React Native](https://facebook.github.io/react-native/) | Free
+* [PhoneGap](https://phonegap.com/) | [Plans](https://phonegap.com/blog/2011/10/13/phonegap-build-pricing-plans-update/)
+* [Cordova](https://cordova.apache.org/) | Free
+* [Framework7](https://framework7.io/) | Free
+* [Sencha](https://www.sencha.com/) | [Pricing](https://www.sencha.com/pricing/)
+
 * Dependencies
      -  We try to be minimalist, as a way to get a quick solution to bottlenecks: the less, the better.
 * How to run the code
