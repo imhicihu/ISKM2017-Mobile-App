@@ -1,12 +1,12 @@
 # Rationale #
 
-* Workflow / Seminal Project: A native and official app related with the [ISKM 2017 Symposium](http://www.imhicihu-conicet.gob.ar/iskm2017/) celebrated on Buenos Aires, Argentina, on november 2017.
+* Workflow / Seminal Project: A native, mobile and the official app related with the [ISKM 2017 Symposium](http://www.imhicihu-conicet.gob.ar/iskm2017/) celebrated on Buenos Aires, Argentina, on november 2017.
 
 ![iskm2017-web.png](https://bitbucket.org/repo/bBMkd4/images/892361199-iskm2017-web.png)
 
 ### What is this repository for? ###
 
-* ~~Hybrid Web-App - App -~~ Native App
+* ~~Hybrid Web-App - App -~~ Native Android App
 * Version 1.1
 
 
