@@ -1,3 +1,5 @@
+![stability-wip](images/3278295154-status_archived.png)
+![internaluse-green](images/3847436881-internal_use_stable.png)
 # Rationale #
 
 * Workflow / Seminal Project: A native, mobile and the official app related with the [ISKM 2017 Symposium](http://www.imhicihu-conicet.gob.ar/iskm2017/) celebrated on Buenos Aires, Argentina, on november 2017.
@@ -25,7 +27,8 @@
      - [Frameworks](https://bitbucket.org/imhicihu/iskm2017-mobile-app/issues/edit/15) 
 
 * Dependencies
-     -  We try to be minimalist, as a way to get a quick solution to bottlenecks: the less, the better.
+	- [NPM](https://www.npmjs.com/)
+
 * How to run the code
      - Go to Play Store. [Download for free](https://play.google.com/store/apps/details?id=com.iskm2017.app_120833_124594&hl=es).    
       ![4097326788-iskm2017.png](images/394890652-4097326788-iskm2017.png)
@@ -34,10 +37,14 @@
      - ~~Download from this repo or our _Github_ account the .IPA or .APK. Then~~ Install it on your device. Run it. _Presto_.
      - Installation of the application is not possible. The [application life cycle](https://www.couchbase.com/blog/application-development-life-cycle/#:~:text=The%20application%20development%20life%20cycle%20(ADLC)%20is%20the%20process%20of,deployment%2C%20testing%2C%20and%20maintenance.) has reached its end.
 
+### Changelog ###
 
-### Who do I talk to? ###
+* Please check the [Commits](https://bitbucket.org/imhicihu/iskm2017-mobile-app/commits/) link for the current status
 
-* Repo owner or admin
-     - Contact at `imhicihu` at `gmail` dot `com`
-* Other community or team contact
-     - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/iskm2017-app/addon/trello/trello-board) of this repo. 
+### Code of Conduct
+
+* Please, check our [Code of Conduct](code_of_conduct.md)
+
+### Legal ###
+
+* All trademarks are the property of their respective owners. 
