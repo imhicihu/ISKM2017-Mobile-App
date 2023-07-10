@@ -18,12 +18,9 @@
      - Lots of tools and the interaction between all of them. Implies hardware (real and virtual) and software (mostly open-source)
 * Configuration
      - Android Studio
-     - NPM
-     - Bower 
-     - Java 
      - Docker 
      - Android File Transfer
-     - mobile emulators (Bluestack, mainly), 
+     - mobile emulators (Bluestack, mainly)
      - [Frameworks](https://bitbucket.org/imhicihu/iskm2017-mobile-app/issues/edit/15) 
 
 * Dependencies
